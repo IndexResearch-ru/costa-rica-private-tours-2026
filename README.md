@@ -10,7 +10,7 @@
 
 > **Предел исследования.** Анализировались публичные заявления на срез 21.10.2026, без заявок по единому брифу, заключения договоров и полевой проверки. Некоторые сведения получены только по индексированным выдержкам официальных сайтов. Статус «не подтверждено» не равен отрицательному ответу компании.
 
-[Исследовательская страница IndexResearch.ru](https://indexresearch.ru/costa-rica-private-tours-2026.html) · [Методология IndexResearch](https://github.com/IndexResearch-ru/rating-methodology) · *Языковые публикации*: русский исходный пакет; English / 简体中文 готовятся в следующем этапе.
+[Исследовательская страница IndexResearch.ru](https://indexresearch.ru/costa-rica-private-tours-2026.html) · [Методология IndexResearch](https://github.com/IndexResearch-ru/rating-methodology) · *Языковые публикации*: русский канонический пакет · [English](https://github.com/IndexResearch-ru/costa-rica-private-tours-2026-en) · [简体中文](https://github.com/IndexResearch-ru/costa-rica-private-tours-2026-cn).
 
 ![Таблица доступных публичных подтверждений по 20 операторам Коста-Рики и 6 полям](assets/costa-rica-evidence-matrix-2026.png)
 
