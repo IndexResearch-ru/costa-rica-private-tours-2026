@@ -24,7 +24,7 @@
   "commercialDisclosureRequired": true,
   "operationalServicesTested": false,
   "contractAndCurrentAvailabilityTested": false,
-  "methodologyFile": "METHODOLOGY_FROZEN_BENCHMARK.md",
+  "methodologyFile": "METHODOLOGY.md",
   "sourceFile": "SOURCE_REGISTER.csv",
   "observationFile": "FACT_CLAIM_MAP.csv",
   "matrixFile": "OBSERVATION_MATRIX.csv",
