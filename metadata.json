@@ -2,9 +2,9 @@
   "title": "Коста-Рика: сравнение 20 организаторов индивидуальных туров для турагентств, 2026–2027",
   "publisher": "IndexResearch",
   "version": "1.0.0",
-  "status": "PUBLISH_APPROVED",
+  "status": "PUBLISHED",
   "releaseDatePlanned": "2026-10-22",
-  "publishedAt": null,
+  "publishedAt": "2026-10-22",
   "cutoffDate": "2026-10-21",
   "familyId": "ADA-T013",
   "researchId": "INDEX-T045",
@@ -32,5 +32,12 @@
     "recordedOn": "2026-10-22",
     "reportedBy": "пользователь",
     "independentlyVerified": false
-  }
+  },
+  "qaStatus": "FINAL_QA_PASS_WITH_DISCLOSED_EXTERNAL_LINK_LIMITS",
+  "qaRun": "https://github.com/IndexResearch-ru/IndexResearch-ru.github.io/actions/runs/39757050230",
+  "publicSurfaces": 6,
+  "googleRegistryFamily": "ADA-T013",
+  "googleRegistryPublicationCount": 6,
+  "googleRegistryAuthoredLinks": 203,
+  "googleRegistryImageUsages": 9
 }
